@@ -13,7 +13,7 @@ There are some neccessary library nees to install such as:
 - matplolib
 - Seaborn
 - sklearn
- The code should run with no issues using Python versions 3
+The code should run with no issues using Python versions 3
  
  ## Project Motivation 
 For this project, I was interestested in using the csv file of 4 wells dataset to better understand and figure out the problem:
