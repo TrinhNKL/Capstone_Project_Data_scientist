@@ -30,4 +30,4 @@ There are 1 notebooks available here to show all of works related to problem I r
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@NguyenKhoaLamTrinh/apply-machine-learning-model-neural-network-to-classify-the-facies-lithology-rock-type-8dca8fb37820).
